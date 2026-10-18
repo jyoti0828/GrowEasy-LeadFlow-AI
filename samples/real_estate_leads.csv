@@ -1,0 +1,5 @@
+"Full Name","Phone No.","Mail ID","Expected Handover","Comments"
+"John Doe","+14155552671","john.doe@example.com","Immediate","Interested in 2BHK"
+"Jane Smith","+447911123456","jane.smith@example.co.uk","Dec 2026","Wants corner apartment"
+"Empty Record","","","",""
+"Invalid Contact","InvalidPhone","invalid_email","2027","Call back later"

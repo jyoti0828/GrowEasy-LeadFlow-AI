@@ -1,0 +1,3 @@
+"campaign_name","ad_set_name","platform","lead_id","form_id","created_time","full_name","email","phone_number","city","company_name"
+"Q3_B2B_Prospecting","Lookalike_Audiences","fb_ig","10101010","20202020","2026-07-01T10:00:00Z","Mark Z","mark@meta.test","+1-555-0123","Menlo Park","Meta"
+"Q3_B2B_Prospecting","Lookalike_Audiences","fb_ig","10101011","20202020","2026-07-02T11:30:00Z","Satya N","satya@ms.test","123-456-7890","Seattle","Microsoft"

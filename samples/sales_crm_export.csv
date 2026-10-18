@@ -1,0 +1,4 @@
+"Customer Name","E-mail Address","Mobile Number","Assigned Agent","Pipeline Stage"
+"Alice Brown","alice.b@corp.com","9876543210","bob.agent@groweasy.ai","Follow up"
+"Charlie Davis","charlie@startup.io","555-0199","bob.agent@groweasy.ai","Closed"
+"Eve","eve@domain.com","","alice.agent@groweasy.ai","Not interested"

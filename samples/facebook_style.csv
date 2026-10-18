@@ -1,0 +1,3 @@
+﻿id,created_time,ad_id,ad_name,adset_id,adset_name,campaign_id,campaign_name,form_id,form_name,is_organic,platform,full_name,phone_number,email
+1,2023-10-27T10:00:00Z,ad1,Ad 1,adset1,Adset 1,camp1,Campaign 1,form1,Form 1,false,fb,John Doe,555-1234,john@example.com
+2,2023-10-27T11:00:00Z,ad2,Ad 2,adset1,Adset 1,camp1,Campaign 1,form1,Form 1,false,ig,Jane Smith,555-5678,jane@example.com
